@@ -1,2 +1,1 @@
-hello word
-this readme is not empty
+this is my message this readme is not empty
